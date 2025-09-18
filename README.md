@@ -26,13 +26,16 @@
 > Replace these with your actual screenshots
 
 ### Dashboard
-![Dashboard](<img width="1891" height="933" alt="image" src="https://github.com/user-attachments/assets/0c998d55-8e08-4dac-9c9d-019e5d9fa815" />)
+![Dashboard]
+(<img width="1891" height="933" alt="image" src="https://github.com/user-attachments/assets/0c998d55-8e08-4dac-9c9d-019e5d9fa815" />)
 
 ### Orders
-![Orders](<img width="1919" height="938" alt="image" src="https://github.com/user-attachments/assets/3bfff61b-87ad-4d97-ba81-a7f498ab56bf" />)
+![Orders]
+(<img width="1919" height="938" alt="image" src="https://github.com/user-attachments/assets/3bfff61b-87ad-4d97-ba81-a7f498ab56bf" />)
 
 ### Holdings
-![Holdings](<img width="1903" height="942" alt="image" src="https://github.com/user-attachments/assets/b617e21c-944a-46c4-b82b-3bef962eb935" />)
+![Holdings]
+(<img width="1903" height="942" alt="image" src="https://github.com/user-attachments/assets/b617e21c-944a-46c4-b82b-3bef962eb935" />)
 
 ### FRONTEND
 <img width="1843" height="941" alt="image" src="https://github.com/user-attachments/assets/752bd437-1961-47c7-9c28-a773a8b57ae5" />
